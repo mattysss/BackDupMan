@@ -30,9 +30,9 @@ backdupman/
 
 1. Nakopíruj soubory `backdupman.sh`, `config.sh` a `utils.sh` do jednoho adresáře.
 2. Nastav oprávnění
-   chmod +x backdupman.sh
-   chmod +x config.sh
-   chmod +x utils.sh
+   `chmod +x backdupman.sh`
+   `chmod +x config.sh`
+   `chmod +x utils.sh`
    ```
 3. Spusť hlavní skript:
    ```bash

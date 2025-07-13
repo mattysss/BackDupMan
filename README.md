@@ -29,11 +29,7 @@ backdupman/
 ## Instalace
 
 1. Nakopíruj soubory `backdupman.sh`, `config.sh` a `utils.sh` do jednoho adresáře.
-2. Přejmenuj soubory:
-   ```bash
-   mv backdupman.txt backdupman.sh
-   mv config.txt config.sh
-   mv utils.txt utils.sh
+2. Nastav oprávnění
    chmod +x backdupman.sh
    chmod +x config.sh
    chmod +x utils.sh

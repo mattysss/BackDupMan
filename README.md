@@ -6,7 +6,7 @@ BackDupManager je interaktivní Bash skript pro správu záloh a detekci duplici
 
 - Vytváření záloh souborů a složek (.tar.gz)
 - Možnost šifrování záloh pomocí GPG (.gpg)
-- Obnovení záloh do zvoleného adresáře
+- Obnovení záloh do přednastaveného adresáře
 - Hledání a mazání duplicitních souborů (na základě hashů)
 - Správa logu provedených akcí
 - Výběr jazyka (CS / EN)

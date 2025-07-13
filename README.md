@@ -89,5 +89,5 @@ Všechny akce jsou zapisovány do souboru:
 
 ---
 
-© 2025 – BackDupManager, vytvořil Matěj
+© 2025 – BackDupManager, vytvořil mattysss
 
